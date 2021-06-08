@@ -1,0 +1,17 @@
+html {
+  background-color: #213040;
+}
+
+
+.header {
+  position: relative;
+  height: 25px;
+  background: #1e1e1e;
+  margin: 0 5px;
+  border-bottom: 1px solid #4d4d4d;
+}
+
+.title-text {
+  margin-left: 10px;
+  color: white;
+}
